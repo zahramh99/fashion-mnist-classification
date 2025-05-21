@@ -37,9 +37,3 @@ Fashion MNIST is a benchmark dataset containing **70,000 grayscale images** (28x
 - **Low-resolution** (28×28 pixels)
 - **Balanced classes** (6,000 images per class in training set)
 - **Pre-processed** (centered, normalized)
-
-## 🛠️ Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/fashion-mnist-classifier.git
-cd fashion-mnist-classifier
